@@ -9,7 +9,7 @@ class RenuoCli < Formula
 
   def install
     system "gem", "build", "renuo-cli.gemspec"
-    system "gem", "install", "renuo-cli-VERSION.gem"
+    system "gem", "install", "renuo-cli-4.2.1.gem"
 
     bin.install Dir["bin/*"]
   end
