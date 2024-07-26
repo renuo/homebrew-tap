@@ -1,6 +1,6 @@
 class RenuoCli < Formula
   desc "Description of your gem"
-  homepage "https://github.com/yourusername/renuo-cli"
+  homepage "https://github.com/renuo/renuo-cli"
   url "URL_TO_GEM"
   sha256 "SHA256_HASH"
 
