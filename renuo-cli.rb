@@ -1,8 +1,8 @@
 class RenuoCli < Formula
   desc "Description of your gem"
   homepage "https://github.com/renuo/renuo-cli"
-  url "URL_TO_GEM"
-  sha256 "SHA256_HASH"
+  url "https://rubygems.org/downloads/renuo-cli-4.2.1.gem"
+  sha256 "e875d792c5df23bd26f073898329d44078fcac9fb203f9512d217fb6c281feca"
 
   depends_on "ruby"
 
